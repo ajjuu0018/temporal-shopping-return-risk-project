@@ -6,6 +6,9 @@ This project combines temporal shopping analysis, return-risk classification, ev
 The included generator creates **synthetic demonstration data** so the project runs end-to-end. It is not real-world evidence and its scores must not be presented as real-world performance. For valid conclusions, replace it with an order-level dataset containing a documented, confirmed return label. Do not automatically treat cancellations or negative quantities as confirmed returns.
 
 ## Quick start (Python 3.10+)
+#if you want to just open website then click on below link
+https://temporal.streamlit.app/
+and if you want to try in vscode terminl then use beloww code:-
 ```bash
 python -m venv .venv
 # Windows: .venv\\Scripts\\activate
